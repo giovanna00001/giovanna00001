@@ -10,9 +10,11 @@
 - ⚡ Fun fact: ...
   ---
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph-dark.svg">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph-dark.svg"
+    alt="Pacman contribution graph">
+</p>
 
   <source
     media="(prefers-color-scheme: light)"
