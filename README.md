@@ -16,12 +16,5 @@
     alt="Pacman contribution graph">
 </p>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph.svg">
-
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph.svg">
 </picture>
 ---
