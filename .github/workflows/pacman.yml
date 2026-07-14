@@ -1,4 +1,3 @@
-.github/workflows/pacman.yml
 name: Generate pacman animation
 
 on:
