@@ -22,5 +22,4 @@
     alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph.svg">
 </picture>
-
 ---
