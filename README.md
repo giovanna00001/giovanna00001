@@ -8,7 +8,19 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div>​​
-  <href=" https://beacons,ai/giovanna00001">
-    <img height="180" src" https://github-readme-stats.vercel.app/api?username=giovanna00001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/giovanna00001/giovanna00001/output/pacman-contribution-graph.svg">
+</picture>
+
+---
