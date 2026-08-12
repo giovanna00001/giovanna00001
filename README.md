@@ -24,13 +24,6 @@ Me chamo Giovanna Souza, estudante de Engenharia de Software, apaixonada por tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-  <img 
-    align="left" 
-    alt="Rafa-Csharp" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-/>
 
   <img 
    align="left" 
